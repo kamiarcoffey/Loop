@@ -225,8 +225,6 @@ class ChartsTableViewController: UITableViewController, UIGestureRecognizerDeleg
                     row.subtitleLabel?.alpha = alpha
                 })
             }
-        @unknown default:
-            <#fatalError()#>
         }
     }
 }
